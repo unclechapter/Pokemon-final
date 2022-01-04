@@ -1,0 +1,90 @@
+
+battlepack.png
+size: 128,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+background
+  rotate: false
+  xy: 2, 10
+  size: 46, 112
+  orig: 46, 112
+  offset: 0, 0
+  index: -1
+hitmark
+  rotate: false
+  xy: 50, 56
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+platform
+  rotate: false
+  xy: 50, 90
+  size: 64, 32
+  orig: 64, 32
+  offset: 0, 0
+  index: -1
+pokeball
+  rotate: false
+  xy: 50, 42
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+pokeball_effect
+  rotate: false
+  xy: 2, 2
+  size: 6, 6
+  orig: 6, 6
+  offset: 0, 0
+  index: 0
+pokeball_effect
+  rotate: false
+  xy: 116, 116
+  size: 6, 6
+  orig: 6, 6
+  offset: 0, 0
+  index: 1
+pokeball_effect
+  rotate: false
+  xy: 84, 82
+  size: 6, 6
+  orig: 6, 6
+  offset: 0, 0
+  index: 2
+pokeball_effect
+  rotate: false
+  xy: 50, 34
+  size: 6, 6
+  orig: 6, 6
+  offset: 0, 0
+  index: 3
+pokeball_effect
+  rotate: false
+  xy: 64, 48
+  size: 6, 6
+  orig: 6, 6
+  offset: 0, 0
+  index: 4
+pokeball_effect
+  rotate: false
+  xy: 10, 2
+  size: 6, 6
+  orig: 6, 6
+  offset: 0, 0
+  index: 5
+pokeball_effect
+  rotate: false
+  xy: 116, 108
+  size: 6, 6
+  orig: 6, 6
+  offset: 0, 0
+  index: 6
+pokeball_effect
+  rotate: false
+  xy: 84, 74
+  size: 6, 6
+  orig: 6, 6
+  offset: 0, 0
+  index: 7

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="lib">
+    <archive path="F:/Pokemon v4.0/Pokemon/lib/gdx.jar" />
+    <archive path="F:/Pokemon v4.0/Pokemon/lib/gdx-tools.jar" />
+    <archive path="F:/Pokemon v4.0/Pokemon/lib/gdx-natives.jar" />
+    <archive path="F:/Pokemon v4.0/Pokemon/lib/gdx-sources.jar" />
+    <archive path="F:/Pokemon v4.0/Pokemon/lib/gdx-freetype.jar" />
+    <archive path="F:/Pokemon v4.0/Pokemon/lib/tween-engine-api.jar" />
+    <archive path="F:/Pokemon v4.0/Pokemon/lib/gdx-backend-lwjgl.jar" />
+    <archive path="F:/Pokemon v4.0/Pokemon/lib/gdx-freetype-natives.jar" />
+    <archive path="F:/Pokemon v4.0/Pokemon/lib/tween-engine-api-sources.jar" />
+    <archive path="F:/Pokemon v4.0/Pokemon/lib/gdx-backend-lwjgl-natives.jar" />
+  </library>
+</eclipse-userlibraries>
+
